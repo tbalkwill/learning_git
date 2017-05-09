@@ -1,2 +1,2 @@
 # Learning GIT
-This is an different modification
+This is a modification
