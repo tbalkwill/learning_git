@@ -1,4 +1,5 @@
 # Learning GIT
 
 ## merging conflicts
-here is an artificial conflict2
+
+here is a solved conflict
