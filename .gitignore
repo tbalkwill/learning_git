@@ -1,0 +1,4 @@
+#ignore le répertoire log
+#/logs
+ignore le contenu du répertoire log
+/logs/
