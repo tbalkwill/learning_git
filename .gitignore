@@ -1,5 +1,5 @@
 #inclut le répertoire logs
-!/logs
+!/logs/
 
 #ignore le contenu du répertoire log
-/logs/
+/logs/*
